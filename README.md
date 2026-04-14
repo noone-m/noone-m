@@ -1,4 +1,7 @@
-# Hi there, I'm Mahdi Abu Tafish 👋
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=E4E4E7&center=true&vCenter=true&width=700&height=55&lines=Hi+there%F0%9F%91%8B%2C+I%27m+Mahdi+Abu+Tafish" alt="Mahdi Abu Tafish" />
+</div>
+
 > *"The more I read, the more I acquire, the more certain I am that I know nothing."*
 
 <p align="center">
