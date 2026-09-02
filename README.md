@@ -4,12 +4,8 @@
 
 > *"The more I read, the more I acquire, the more certain I am that I know nothing."*
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noone-m&theme=dark&show_icons=true&include_all_commits=true" alt="Mahdi"/>
-</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=noone-m&&theme=github-compact" alt="Mahdi's github activity graph"/>
 
-### 🎓 AI Engineering Student
+### 🎓 AI Engineering graduate
 I am a passionate developer currently focusing on the intersection of **Artificial Intelligence** and **Software Engineering**. I love building systems that solve real-world problems through data-driven insights and elegant code.
 
 ---
