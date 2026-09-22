@@ -14,9 +14,9 @@ I am a passionate developer currently focusing on the intersection of **Artifici
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python, Dart, SQL |
+| **Languages** | Python, Dart, SQL, Java |
 | **AI / ML** | PyTorch, TensorFlow, Computer Vision (YOLO), NLP |
-| **App Dev** | FastAPI, Flutter |
+| **App Dev** | FastAPI, Flutter, Spring Boot, React |
 | **DevOps/Tools** | Git, Docker, Linux, LaTeX |
 
 <p align="center">
